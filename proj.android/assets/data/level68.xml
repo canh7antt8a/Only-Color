@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataGames>
+    
+    
+    <data id="1">
+        <x>1</x> <y>2</y> <value>1</value>
+    </data>
+    <data id="2">
+        <x>2</x> <y>2</y> <value>1</value>
+    </data>
+    <data id="3">
+        <x>4</x> <y>2</y> <value>1</value>
+    </data>
+    <data id="4">
+        <x>5</x> <y>2</y> <value>1</value>
+    </data>
+    <data id="5">
+        <x>6</x> <y>2</y> <value>1</value>
+    </data>
+    <data id="6">
+        <x>9</x> <y>2</y> <value>1</value>
+    </data>
+    <data id="7">
+        <x>10</x> <y>2</y> <value>1</value>
+    </data>
+    <data id="8">
+        <x>0</x> <y>3</y> <value>1</value>
+    </data>
+    <data id="9">
+        <x>1</x> <y>3</y> <value>1</value>
+    </data>
+    <data id="10">
+        <x>5</x> <y>3</y> <value>1</value>
+    </data>
+    
+    
+    
+    <data id="1">
+        <x>6</x> <y>3</y> <value>1</value>
+    </data>
+    <data id="2">
+        <x>10</x> <y>3</y> <value>1</value>
+    </data>
+    <data id="3">
+        <x>11</x> <y>3</y> <value>1</value>
+    </data>
+    <data id="4">
+        <x>1</x> <y>4</y> <value>1</value>
+    </data>
+    <data id="5">
+        <x>2</x> <y>4</y> <value>1</value>
+    </data>
+    <data id="6">
+        <x>4</x> <y>4</y> <value>1</value>
+    </data>
+    <data id="7">
+        <x>5</x> <y>4</y> <value>1</value>
+    </data>
+    <data id="8">
+        <x>9</x> <y>4</y> <value>1</value>
+    </data>
+    <data id="9">
+        <x>10</x> <y>4</y> <value>1</value>
+    </data>
+    <data id="10">
+        <x>0</x> <y>5</y> <value>1</value>
+    </data>
+    
+    
+    
+    <data id="1">
+        <x>1</x> <y>5</y> <value>1</value>
+    </data>
+    <data id="2">
+        <x>3</x> <y>5</y> <value>1</value>
+    </data>
+    <data id="3">
+        <x>5</x> <y>5</y> <value>1</value>
+    </data>
+    <data id="4">
+        <x>6</x> <y>5</y> <value>1</value>
+    </data>
+    <data id="5">
+        <x>8</x> <y>5</y> <value>1</value>
+    </data>
+    <data id="6">
+        <x>10</x> <y>5</y> <value>1</value>
+    </data>
+    <data id="7">
+        <x>11</x> <y>5</y> <value>1</value>
+    </data>
+    <data id="8">
+        <x>1</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="9">
+        <x>2</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="10">
+        <x>3</x> <y>6</y> <value>1</value>
+    </data>
+
+    
+    <data id="1">
+        <x>4</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="2">
+        <x>5</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="3">
+        <x>6</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="4">
+        <x>7</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="5">
+        <x>8</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="6">
+        <x>9</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="7">
+        <x>10</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="8">
+        <x>2</x> <y>7</y> <value>1</value>
+    </data>
+    <data id="9">
+        <x>4</x> <y>7</y> <value>1</value>
+    </data>
+    <data id="10">
+        <x>7</x> <y>7</y> <value>1</value>
+    </data>
+    
+    
+    
+    <data id="1">
+        <x>9</x> <y>7</y> <value>1</value>
+    </data>
+    
+</DataGames>

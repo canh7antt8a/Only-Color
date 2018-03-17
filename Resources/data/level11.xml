@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataGames>
+    <data id="0">
+        <x>4</x> <y>1</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>5</x> <y>1</y> <value>2</value>
+    </data>
+    <data id="0">
+        <x>7</x> <y>1</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>8</x> <y>1</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>5</x> <y>2</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>6</x> <y>2</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>7</x> <y>2</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>6</x> <y>3</y> <value>2</value>
+    </data>
+    <data id="0">
+        <x>5</x> <y>4</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>6</x> <y>4</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>7</x> <y>4</y> <value>2</value>
+    </data>
+     <data id="0">
+        <x>9</x> <y>4</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>4</x> <y>5</y> <value>2</value>
+    </data>
+    <data id="0">
+        <x>5</x> <y>5</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>7</x> <y>5</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>8</x> <y>5</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>9</x> <y>5</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>2</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>3</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>4</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>7</x> <y>6</y> <value>1</value>
+    </data>
+    <data id="0">
+        <x>9</x> <y>6</y> <value>1</value>
+    </data>
+</DataGames>
